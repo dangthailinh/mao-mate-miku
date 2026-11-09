@@ -1,0 +1,8 @@
+{
+  "name": "MaoIntegration.Core",
+  "rootNamespace": "MaoIntegration",
+  "references": [
+    "Unity.Newtonsoft.Json"
+  ],
+  "autoReferenced": true
+}

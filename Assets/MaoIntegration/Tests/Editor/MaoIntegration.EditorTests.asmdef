@@ -1,0 +1,14 @@
+{
+  "name": "MaoIntegration.EditorTests",
+  "rootNamespace": "MaoIntegration.Tests",
+  "references": [
+    "MaoIntegration.Core"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

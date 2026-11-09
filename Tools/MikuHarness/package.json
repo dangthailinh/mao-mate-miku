@@ -1,0 +1,13 @@
+{
+  "name": "miku-harness-bridge",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bridge.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@deepseek-ai/dsh-sdk-client": "0.2.0-rc.2"
+  }
+}
